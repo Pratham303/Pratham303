@@ -1,4 +1,4 @@
-![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)
+![MasterHead](https://usmandeveloper.com/wp-content/uploads/2019/03/reactjs7.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Pratham Vataliya</h1>
