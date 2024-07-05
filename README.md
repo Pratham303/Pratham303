@@ -1,6 +1,6 @@
 ![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)
 
-https://www.horizont.com.hr/posao/frontend-developer.gif
+
 <h1 align="center">Hi 👋, I'm Pratham Vataliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
