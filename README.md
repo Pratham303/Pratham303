@@ -1,10 +1,10 @@
-![MasterHead](https://usmandeveloper.com/wp-content/uploads/2019/03/reactjs7.jpg)
+![MasterHead](https://uploads-ssl.webflow.com/5ebd54899f7ac255cd8e0950/60b6438ff7a1c4b9389a89b7_React%20i18n_banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Pratham Vataliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding"  src="https://usmandeveloper.com/wp-content/uploads/2019/03/reactjs7.jpg">
+<img align="right" alt="Coding"  src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 ")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham303&label=Profile%20views&color=0e75b6&style=flat" alt="pratham303" /> </p>
